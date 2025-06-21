@@ -160,8 +160,7 @@ openBtn.MouseButton1Click:Connect(function()
 		})
 
 		local success, result = pcall(function()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/heads/main/ArbixHubV4.lua"))()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/heads/main/Instant%20steal.lua"))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/Valadaspt30/Steal-a-Brainrot-V3-SCRIPT/refs/heads/main/Steal%20a%20brainrot"))()
 		end)
 
 		if not success then
