@@ -149,7 +149,7 @@ openBtn.MouseButton1Click:Connect(function()
 	if clickCount < 3 then
 		game.StarterGui:SetCore("SendNotification", {
 			Title = "Wait...",
-			Text = "FOLLOW AND JOIN THE GROUP TO WORK, IF YOU HAVE ALREADY DONE THIS, CLICK OPEN SCRIPT 3 TIMES.",
+			Text = "FOLLOW ME TO WORK, IF YOU HAVE ALREADY DONE THIS, CLICK OPEN SCRIPT 3 TIMES.",
 			Duration = 3
 		})
 	else
